@@ -35,7 +35,7 @@ mbti_feedback = {
     'ESFP': "Playful, spontaneous, and loves social fun."
 }
 
-# === Load cleaned dataset ===
+#  Load cleaned dataset 
 df = pd.read_csv(r'D:\PersonalityPred\mbti_cleaned.csv', encoding='latin1')
 
 # === TF-IDF Vectorization ===
