@@ -18,10 +18,8 @@ X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_
 
 #Step 5: Text Vectorization (TF-IDF)
 vectorizer = TfidfVectorizer(max_features=5000, stop_words='english')
-
 X_train_tfidf = vectorizer.fit_transform(X_train)
 X_test_tfidf = vectorizer.transform(X_test)
-
 print("TF-IDF shape:", X_train_tfidf.shape)
 
 #Step 6: Train a Logistic Regression Model
@@ -30,7 +28,6 @@ model.fit(X_train_tfidf, y_train)
 
 #Step 7: Evaluate Model Performance
 y_pred = model.predict(X_test_tfidf)
-
 print("Accuracy:", accuracy_score(y_test, y_pred))
 print("\nClassification Report:\n", classification_report(y_test, y_pred))
 
