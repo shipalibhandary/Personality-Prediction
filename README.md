@@ -6,3 +6,4 @@ It uses **TF-IDF vectorization** and **Logistic Regression** to classify text in
 ---
 
 ## 🧠 Project Overview
+The goal of this project is to analyze text input and classify personality characteristics. The pipeline includes:
