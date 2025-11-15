@@ -13,3 +13,5 @@ The goal of this project is to analyze text input and classify personality chara
 5. **Model Training using Logistic Regression**
 6. **Model Evaluation (Accuracy and Confusion Matrix)**
 7. **Final Personality Prediction**
+
+## 📂 Directory Structure
