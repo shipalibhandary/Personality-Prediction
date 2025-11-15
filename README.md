@@ -6,3 +6,10 @@ This project predicts a person's **MBTI (Myers–Briggs Type Indicator)** person
 
 ## 🧠 Project Overview
 The goal of this project is to analyze text input and classify personality characteristics. The pipeline includes:
+1. **Dataset Collection**
+2. **Text Preprocessing** (cleaning, tokenizing, removing stopwords)
+3. **Feature Extraction using TF-IDF**
+4. **Train-Test Split**
+5. **Model Training using Logistic Regression**
+6. **Model Evaluation (Accuracy and Confusion Matrix)**
+7. **Final Personality Prediction**
