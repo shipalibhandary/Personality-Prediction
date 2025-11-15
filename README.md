@@ -5,4 +5,4 @@ This project predicts a person's **MBTI (Myers–Briggs Type Indicator)** person
 It uses **TF-IDF vectorization** and **Logistic Regression** to classify text into one of the 16 MBTI types.
 ---
 
-# 🧠 Project Overview
+## 🧠 Project Overview
