@@ -24,4 +24,4 @@ The goal of this project is to analyze text input and classify personality chara
 | Model | Logistic Regression |
 | Evaluation | Accuracy Score, Confusion Matrix |
 
-🔍 Example Prediction
+## 🔍 Example Prediction
