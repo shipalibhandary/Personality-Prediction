@@ -27,4 +27,10 @@ The goal of this project is to analyze text input and classify personality chara
 └── requirements.txt
 
 ## 🔧 Technologies Used
-
+| Category | Tools / Libraries |
+|---------|-------------------|
+| Language | Python |
+| Data Handling | Pandas, NumPy |
+| NLP | NLTK / spaCy, Scikit-learn TF-IDF Vectorizer |
+| Model | Logistic Regression |
+| Evaluation | Accuracy Score, Confusion Matrix |
