@@ -23,3 +23,5 @@ The goal of this project is to analyze text input and classify personality chara
 | NLP | NLTK / spaCy, Scikit-learn TF-IDF Vectorizer |
 | Model | Logistic Regression |
 | Evaluation | Accuracy Score, Confusion Matrix |
+
+🔍 Example Prediction
