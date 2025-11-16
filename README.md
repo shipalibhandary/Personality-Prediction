@@ -25,3 +25,6 @@ The goal of this project is to analyze text input and classify personality chara
 │ └── logistic_regression_model.pkl
 ├── README.md
 └── requirements.txt
+
+## 🔧 Technologies Used
+
