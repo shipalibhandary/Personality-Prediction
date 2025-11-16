@@ -14,33 +14,6 @@ The goal of this project is to analyze text input and classify personality chara
 6. **Model Evaluation (Accuracy and Confusion Matrix)**
 7. **Final Personality Prediction**
 
-## 📂 Directory Structure
-
-PersonalityPred/
-│
-├── dataset/
-│   └── mbti_cleaned.csv
-│
-├── src/
-│   ├── train_all_traits.py
-│   ├── predict.py
-│   └── preprocess.py
-│
-├── models/
-│   ├── I_E_model.pkl
-│   ├── N_S_model.pkl
-│   ├── T_F_model.pkl
-│   └── J_P_model.pkl
-│
-├── static/
-│   └── (CSS/JS files if you have UI)
-│
-├── templates/
-│   └── index.html   (Flask UI page if applicable)
-│
-├── README.md
-└── requirements.txt
-
 
 ## 🔧 Technologies Used
 | Category | Tools / Libraries |
