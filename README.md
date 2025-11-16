@@ -25,3 +25,4 @@ The goal of this project is to analyze text input and classify personality chara
 | Evaluation | Accuracy Score, Confusion Matrix |
 
 ## 🔍 Example Prediction
+Input:
