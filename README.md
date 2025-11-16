@@ -15,3 +15,13 @@ The goal of this project is to analyze text input and classify personality chara
 7. **Final Personality Prediction**
 
 ## 📂 Directory Structure
+├── dataset/
+│ └── personality_dataset.csv
+├── src/
+│ └── train_model.py
+│ └── preprocess.py
+│ └── predict.py
+├── models/
+│ └── logistic_regression_model.pkl
+├── README.md
+└── requirements.txt
