@@ -16,16 +16,31 @@ The goal of this project is to analyze text input and classify personality chara
 
 ## 📂 Directory Structure
 
+PersonalityPred/
+│
 ├── dataset/
-│ └── personality_dataset.csv
+│   └── mbti_cleaned.csv
+│
 ├── src/
-│ └── train_model.py
-│ └── preprocess.py
-│ └── predict.py
+│   ├── train_all_traits.py
+│   ├── predict.py
+│   └── preprocess.py
+│
 ├── models/
-│ └── logistic_regression_model.pkl
+│   ├── I_E_model.pkl
+│   ├── N_S_model.pkl
+│   ├── T_F_model.pkl
+│   └── J_P_model.pkl
+│
+├── static/
+│   └── (CSS/JS files if you have UI)
+│
+├── templates/
+│   └── index.html   (Flask UI page if applicable)
+│
 ├── README.md
 └── requirements.txt
+
 
 ## 🔧 Technologies Used
 | Category | Tools / Libraries |
