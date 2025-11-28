@@ -51,3 +51,9 @@ Input:<br>
 Output:<br>
    Predicted MBTI Type: INTJ
    Feedback: "Strategic and independent thinker."
+
+## 👤 Author
+- **SHIPALI**
+- MCA 
+
+
