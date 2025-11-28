@@ -26,10 +26,10 @@ The goal of this project is to analyze text input and classify personality chara
 
 ## 🔍 Example Prediction
 Input: 
-"I enjoy planning things in advance and analyzing situations carefully."
+   "I enjoy planning things in advance and analyzing situations carefully."
 
 Output:
-Predicted Personality Type: Analytical / Introvert-type
+   Predicted Personality Type: Analytical / Introvert-type
 
 ## 📎 Dataset
 
