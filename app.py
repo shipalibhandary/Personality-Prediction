@@ -46,7 +46,7 @@ def clean_text(text):
     return text
 
 # Load dataset 
-df = pd.read_csv(r'D:\PersonalityPred\mbti_cleaned.csv', encoding='latin1')
+df = pd.read_csv('mbti_cleaned.csv', encoding='latin1')
 
 # TF-IDF Vectorization
 vectorizer = TfidfVectorizer(max_features=5000, stop_words='english')
