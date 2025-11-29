@@ -54,7 +54,7 @@ Output:<br>
 
 ## 📸 Screenshot
 
-<img src="screenshots/image.png" alt="image" height="700" width="800"/>
+<img src="Screenshots/image.png" alt="image" height="700" width="800"/>
 
 ## 👤 Author
 - **SHIPALI**
