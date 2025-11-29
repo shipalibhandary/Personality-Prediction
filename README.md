@@ -53,7 +53,6 @@ Output:<br>
    Feedback: "Strategic and independent thinker."
 
 ## 📸 Screenshot
-
 <img src="Screenshots/image.png" alt="image" height="700" width="800"/>
 
 ## 👤 Author
